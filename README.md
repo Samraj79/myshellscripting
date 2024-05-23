@@ -1,2 +1,8 @@
 # myshellscripting
-this is the first scripting to understand about git and git hub
+!#/bin/bash
+date
+whoami
+pwd
+free -g
+nproc
+df -h
